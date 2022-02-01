@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AvalonLogViewer": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false,
+      "nativeDebugging": true
+    }
+  }
+}
