@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AvalonLogViewer/1.0.0": {
+        "runtime": {
+          "AvalonLogViewer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AvalonLogViewer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
