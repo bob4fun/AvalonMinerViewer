@@ -3,7 +3,7 @@
     "AvalonLogViewer": {
       "commandName": "Project",
       "remoteDebugEnabled": false,
-      "nativeDebugging": true
+      "nativeDebugging": false
     }
   }
 }
