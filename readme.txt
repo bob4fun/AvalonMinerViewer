@@ -7,6 +7,9 @@
 
 поддержка в Telegramm канале @AvalonMinerViewer
 
+Для запуска на 32х битной ОС необходимо самостоятельно установить .NET 6.0 Desktop Runtime (v6.0.2) - Windows x86
+https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.2-windows-x86-installer
+
 Программа как есть не делает ни каких изменений в майнере, никаким образом им не управляет. 
 Программа только визуально оформляет данные с майнеров Avalon 10/11/12 серии полученные по API.
 
