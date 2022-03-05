@@ -5,6 +5,8 @@
 -ОС: Windows 7/8/10/11 РУ/EN + Net 4.8 Runtime-Desktop
 -Масштаб экрана - любой
 
+Группа в Телеграм: https://t.me/AvalonMinerViewer
+
 поддержка в Telegramm канале @AvalonMinerViewer
 
 Программа как есть не делает ни каких изменений в майнере, никаким образом им не управляет. 
