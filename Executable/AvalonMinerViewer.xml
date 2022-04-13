@@ -1,13 +1,15 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.23.0</version> 
+        <version>1.0.23.1</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>D093373974B53E88019D2E39B83DFA8D</md5>
+        <md5>E57F75F87ED13DA9CCBE0263FB3A5B75</md5>
         <description>Обновление: 13/04/2022:
 		
--незначительная доработка на графиках</description> 
+-незначительная доработка на графиках
+-мелкие доработки интерфейса		
+	    </description> 
         <launchArgs></launchArgs> 
     </update>
 </sharpUpdate>
