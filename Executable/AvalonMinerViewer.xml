@@ -1,16 +1,13 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.24.3</version> 
+        <version>1.0.24.4</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>084B5B5C43569F96350BA60016000176</md5>
-        <description>Обновление: 16/04/2022:
+        <md5>003E0CFC9F28EC9778C6B6E80DF229CE</md5>
+        <description>Обновление: 18/04/2022:
 		
--повышена стабильность при опросе 10й серии		
--корректное отображение номера чипа на 10XXPro
--проверка активации на сервере разработчика
--добавлена ссылка на проверку обновлений в "О программе"
+-(расширенная) добавлены графики		
 	    </description> 
         <launchArgs></launchArgs> 
     </update>
