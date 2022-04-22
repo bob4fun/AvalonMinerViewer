@@ -1,14 +1,15 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.24.6</version> 
+        <version>1.0.24.7</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>AAFAC6162555D4588C2E9FF61C2C87AC</md5>
-        <description>Обновление: 21/04/2022:
+        <md5>1B2C64D21E456E6B42DE87E023D33B14</md5>
+        <description>Обновление: 22/04/2022:
 		
--добавлена средняя температура по платам		
 +пасхалка
+-(расширенная) изменение шрифта дополнительного лога
+
 	    </description> 
         <launchArgs></launchArgs> 
     </update>
