@@ -1,14 +1,15 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.24.7</version> 
+        <version>1.0.24.8</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>1B2C64D21E456E6B42DE87E023D33B14</md5>
+        <md5>ACEE5220BD5002AB79204201AD85F134</md5>
         <description>Обновление: 22/04/2022:
 		
 +пасхалка
 -(расширенная) изменение шрифта дополнительного лога
+-(расширенная) откорректирован вывод второго лога
 
 	    </description> 
         <launchArgs></launchArgs> 
