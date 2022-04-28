@@ -4,14 +4,21 @@
         <version>1.0.24.10</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>BD48791EF6B7356D12275C394E6CDC94</md5>
-        <description>Обновление: 27/04/2022:
+        <md5>EC73A16F9C83BCACBD323D2730023A80</md5>
+        <description>Обновление: 28/04/2022:
 		
--исправлены орфографические ошибки
--немного пересобрана форма обновления
--слегка оптимизирована работа
+-избранные майнеры
 
 	    </description> 
         <launchArgs></launchArgs> 
     </update>
+    <add> 
+        <version>1.0.24.10</version> 
+        <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/Newtonsoft.Json.dll</url> 
+        <filePath>./Newtonsoft.Json.dll</filePath>
+        <md5>081D9558BBB7ADCE142DA153B2D5577A</md5>
+        <description>
+	    </description> 
+        <launchArgs></launchArgs> 
+    </add>
 </sharpUpdate>
