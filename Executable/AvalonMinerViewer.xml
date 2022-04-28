@@ -12,7 +12,7 @@
 	    </description> 
         <launchArgs></launchArgs> 
     </update>
-    <add> 
+    <update> 
         <version>1.0.24.10</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/Newtonsoft.Json.dll</url> 
         <filePath>./Newtonsoft.Json.dll</filePath>
@@ -20,5 +20,5 @@
         <description>
 	    </description> 
         <launchArgs></launchArgs> 
-    </add>
+    </update>
 </sharpUpdate>
