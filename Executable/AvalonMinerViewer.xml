@@ -12,24 +12,4 @@
 	    </description> 
         <launchArgs></launchArgs> 
     </update>
-    <update> 
-        <version>13.0.1.25517</version> 
-        <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/Newtonsoft.Json.dll</url> 
-        <filePath>./Newtonsoft.Json.dll</filePath>
-        <md5>081D9558BBB7ADCE142DA153B2D5577A</md5>
-        <description>
--необходимая для нормальной работы библиотека
-	    </description> 
-        <launchArgs></launchArgs> 
-    </update>
-	    <update> 
-        <version>13.0.1.25517</version> 
-        <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/Newtonsoft.Json.dll</url> 
-        <filePath>./Newtonsofta.Jsona.dll</filePath>
-        <md5>081D9558BBB7ADCE142DA153B2D5577A</md5>
-        <description>
--необходимая для нормальной работы библиотека
-	    </description> 
-        <launchArgs></launchArgs> 
-    </update>
 </sharpUpdate>
