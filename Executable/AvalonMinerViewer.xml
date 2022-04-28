@@ -4,10 +4,11 @@
         <version>1.0.24.10</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>EC73A16F9C83BCACBD323D2730023A80</md5>
+        <md5>BA2652605FD132143DA3299BE3C601A4</md5>
         <description>Обновление: 28/04/2022:
 		
--избранные майнеры
+-возможность добавлять избранные майнеры
+-автоматическое сохранение списка найденных меайнеров
 
 	    </description> 
         <launchArgs></launchArgs> 
