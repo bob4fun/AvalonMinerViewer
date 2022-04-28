@@ -18,7 +18,8 @@
         <filePath>./Newtonsoft.Json.dll</filePath>
         <md5>081D9558BBB7ADCE142DA153B2D5577A</md5>
         <description>
-	    </description> 
+-новая библиотека		
+	</description> 
         <launchArgs></launchArgs> 
     </update>
 </sharpUpdate>
