@@ -1,11 +1,15 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.24.11</version> 
+        <version>1.0.24.12</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>BA2652605FD132143DA3299BE3C601A4</md5>
+        <md5>CD13DCB8EDEF13D7CBC755A4A00A1419</md5>
         <description>
+
+1.0.24.12 - Обновления		
+-исправлен QR код usdt
+
 1.0.24.11 - Обновления		
 -возможность добавлять избранные майнеры
 -автоматическое сохранение списка найденных меайнеров
