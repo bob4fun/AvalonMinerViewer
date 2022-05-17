@@ -1,11 +1,13 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.24.14</version> 
+        <version>1.0.24.15</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>527F99107A6AD2E00B0F5B610CBF4037</md5>
-        <description>
+        <md5>49C5DB9D91E07A1DC8C35E3858E7BA72</md5>
+        <description>1.0.24.15 - Исправления	
+-отображение частоты и количества плат
+
 1.0.24.14 - Обновления		
 -исправлен QR код usdt
 -(расширенная) нулевые значения на графике
