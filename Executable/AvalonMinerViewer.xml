@@ -1,11 +1,14 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.24.15</version> 
+        <version>1.0.24.16</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>F790FEC8CC7D6E533FB0E85176362718</md5>
-        <description>1.0.24.15 - Исправления	
+        <md5>296A51C5C01BC55C8E1B36B9A7FEE4E6</md5>
+        <description>1.0.24.16 - Дополнения	
+-(расширенная) добавлена возможность определения ленивых чипов (красный - ленивый, желтый - средний, зеленый - хороший), работает от 1000 нонсов на плате.
+
+1.0.24.15 - Исправления	
 -отображение частоты и количества плат
 
 1.0.24.14 - Обновления		
