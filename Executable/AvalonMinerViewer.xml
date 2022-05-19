@@ -4,7 +4,7 @@
         <version>1.0.24.20</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>1DA26BF2B17F3D46CCAF42DA7EAEBABB</md5>
+        <md5>F119BEC66221032E301C5CDC0ECE86F5</md5>
         <description>1.0.24.20 - Изменения
 -корректное отображение номера чипа и температуры на 10XXpro
 
