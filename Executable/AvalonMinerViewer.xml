@@ -1,11 +1,14 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.24.18</version> 
+        <version>1.0.24.19</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>7EE70E08F468B0C0022B423A124AF4A0</md5>
-        <description>1.0.24.18 - Изменения
+        <md5>10DBC2DB0B269E9F12CEDDA0611D47C8</md5>
+        <description>1.0.24.19 - Изменения
+-корректное отображение информации на плашках чипов
+
+1.0.24.18 - Изменения
 -оптимизация кода
 		
 1.0.24.17 - Дополнения/изменения
