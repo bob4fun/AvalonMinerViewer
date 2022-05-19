@@ -1,11 +1,14 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.24.19</version> 
+        <version>1.0.24.20</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>10DBC2DB0B269E9F12CEDDA0611D47C8</md5>
-        <description>1.0.24.19 - Изменения
+        <md5>1DA26BF2B17F3D46CCAF42DA7EAEBABB</md5>
+        <description>1.0.24.20 - Изменения
+-корректное отображение номера чипа и температуры на 10XXpro
+
+1.0.24.19 - Изменения
 -корректное отображение информации на плашках чипов
 
 1.0.24.18 - Изменения
