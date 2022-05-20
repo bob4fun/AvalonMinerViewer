@@ -1,11 +1,14 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.24.22</version> 
+        <version>1.0.24.23</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>35390EF664752E80F753A8419DC7CBAF</md5>
-        <description>1.0.24.22 - Изменения
+        <md5>6F34D69626A4F7BEC0CF81847CB52F23</md5>
+        <description>1.0.24.23 - Дополнения
+-(расширенные) отображение CRC на панели чипа
+
+1.0.24.22 - Изменения
 -исправлен баг с диапазоном адресов в поиске
 -(расширенные) добавлена кнопка очистки графиков
 		
