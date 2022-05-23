@@ -1,11 +1,14 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.24.26</version> 
+        <version>1.0.24.27</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>45EC2E1FB1B48B4A6EA72B4E12B22589</md5>
-        <description>1.0.24.26 - Дополнения/исправления
+        <md5>BB9AFB0EE86B321CB8CFAB92AAC3F7B8</md5>
+        <description>1.0.24.27 - Исправления
+-для моделей 10хх-ХХ исправлено отображение номера чипа и их количество (теперь количество соответствует количеству на плате)
+		
+1.0.24.26 - Дополнения/исправления
 -для моделей 10хх исправлено отображение номера чипа (теперь нумерация соответствует маркировке на плате)
 -удалить майнеры из списка можно в окне поиска (после поиска они будут отображаться в списке)
 
