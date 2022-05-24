@@ -1,11 +1,14 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.24.28</version> 
+        <version>1.0.24.29</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>29CB8011084D853B2F68AE4EE6FAFDFF</md5>
-        <description>1.0.24.28 - Дополнения
+        <md5>C026362C575F334CA0E63E2ED7B02A5E</md5>
+        <description>1.0.24.29 - Исправления
+-поправлен баг с запусокм расширенной версии
+
+1.0.24.28 - Дополнения
 -возможность отмены активации
 		
 1.0.24.27 - Исправления
