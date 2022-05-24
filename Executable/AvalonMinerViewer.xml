@@ -1,11 +1,14 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.24.29</version> 
+        <version>1.0.24.30</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>C026362C575F334CA0E63E2ED7B02A5E</md5>
-        <description>1.0.24.29 - Исправления
+        <md5>A90389CC8CE790FC4C990A52DFA875A5</md5>
+        <description>1.0.24.30 - Исправления
+-вывел корректно текущую скорость на 10ХХ серии
+		
+1.0.24.29 - Исправления
 -поправлен баг с запусокм расширенной версии
 
 1.0.24.28 - Дополнения
