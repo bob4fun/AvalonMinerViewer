@@ -4,8 +4,11 @@
         <version>1.0.24.30</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>A90389CC8CE790FC4C990A52DFA875A5</md5>
-        <description>1.0.24.30 - Исправления
+        <md5>342D36D374D75D9907058B56CE0CD83A</md5>
+        <description>1.0.24.31 - Исправления
+-поправлена активация (баг в 1.0.24.30)
+
+1.0.24.30 - Исправления
 -вывел корректно текущую скорость на 10ХХ серии
 		
 1.0.24.29 - Исправления
