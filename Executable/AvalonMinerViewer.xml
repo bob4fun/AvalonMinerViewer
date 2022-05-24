@@ -1,11 +1,14 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.24.32</version> 
+        <version>1.0.24.33</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>0F5EABE4F0F78636D218DDB6FD7F1ED1</md5>
-        <description>1.0.24.32 - Исправления
+        <md5>6D89A6F34E378D385FBB23452F8D326B</md5>
+        <description>1.0.24.33 - Исправления
+-исправлены синтаксические ошибки в правила расширенной
+
+1.0.24.32 - Исправления
 -(расширенные) поправлена кнопка Выполнить кастом
 
 1.0.24.31 - Исправления
