@@ -1,11 +1,14 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.24.33</version> 
+        <version>1.0.24.34</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>6D89A6F34E378D385FBB23452F8D326B</md5>
-        <description>1.0.24.33 - Исправления
+        <md5>293AF8880DA6AB224B84780E7AB4CA1A</md5>
+        <description>1.0.24.34 - Исправления
+-оптимизация кода
+
+1.0.24.33 - Исправления
 -исправлены синтаксические ошибки в правила расширенной
 
 1.0.24.32 - Исправления
