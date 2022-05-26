@@ -1,11 +1,14 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.24.35</version> 
+        <version>1.0.24.36</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>A45D8B60139E4FFE9F9B3D7DA8D884BF</md5>
-        <description>1.0.24.35 - Дополнения
+        <md5>0D8F88BAC092F3F9A1A0F579AD8EDD48</md5>
+        <description>1.0.24.36 - Исправления
+-исправлена ошибка активации
+
+1.0.24.35 - Дополнения
 -сортировка майнеров по IP адресам в спике и в онке поиска
 
 1.0.24.34 - Исправления
