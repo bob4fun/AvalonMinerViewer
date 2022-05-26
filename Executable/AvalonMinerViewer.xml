@@ -1,11 +1,14 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.24.36</version> 
+        <version>1.0.24.37</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>0D8F88BAC092F3F9A1A0F579AD8EDD48</md5>
-        <description>1.0.24.36 - Исправления
+        <md5>B06526CA5D100C7F7740B0D2B3849F0D</md5>
+        <description>1.0.24.37 - Дополнения
+-(расширенная) теперь при выборе отображения [CRC], чип с имеющимися ошибками будет подсвечен красным цветом
+
+1.0.24.36 - Исправления
 -исправлена ошибка активации
 
 1.0.24.35 - Дополнения
