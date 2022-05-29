@@ -1,11 +1,14 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.24.40</version> 
+        <version>1.0.24.41</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>EFFBF2A49D438D7A3CB170BB481275EB</md5>
-        <description>1.0.24.40 - Исправления
+        <md5>51F4F3FD7A424753C398010FE7A5AF1C</md5>
+        <description>1.0.24.41 - Исправления
+-исправдены синтаксические ошибки по текстам
+
+1.0.24.41 - Исправления
 -изменен рекламный блок
 
 1.0.24.39 - Исправления
