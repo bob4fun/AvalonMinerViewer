@@ -1,11 +1,15 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.24.42</version> 
+        <version>1.0.24.43</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>F7605C3D3B87659EB18AD5FA6CAEFA9D</md5>
-        <description>1.0.24.42 - Исправления
+        <md5>E0BAB0CE81797CFDCA34D99ED4B4F655</md5>
+        <description>1.0.24.43 - Исправления/Дополнения
+-изменения в условиях приобретения расширенной версии
+-изменен блок рекламы (ротация баннеров)
+
+1.0.24.42 - Исправления
 -(расширенная) изменен способ определения ленивых чипов, теперь красные чипы выполняют меньше трети максимальной работы
 
 1.0.24.41 - Исправления
