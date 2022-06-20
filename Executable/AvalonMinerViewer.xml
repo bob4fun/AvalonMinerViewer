@@ -1,11 +1,14 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.25.00</version> 
+        <version>1.0.25.01</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>7C7A42FF71F73E3AD2965EF635CF3B71</md5>
-        <description>1.0.25.00 - Обновления
+        <md5>4DC3FF0B97B62F89058979A990526447</md5>
+        <description>1.0.25.01 - Исправления
+-Корректное отображение чипов на моделях 1066 и 1066pro
+
+1.0.25.00 - Обновления
 -Темная тема
 
 1.0.24.46 - Дополнения
