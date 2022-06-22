@@ -1,14 +1,18 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.25.05</version> 
+        <version>1.0.25.06</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>AF1CD8A06E01E8AED8CFDFFFD765C94B</md5>
-        <description>1.0.25.05 - Исправления
+        <md5>8C970F54081228CE1B7D1D8E42815F37</md5>
+        <description>1.0.25.06 - Исправления
+-выделили 1045/46/47 в отдельную серию 104X и поправили отображение чипов
+-новый майнер с чипами A3203 у которого 420 чипов теперь тоже можно смотреть в программе
+		
+1.0.25.05 - Исправления
 -исправлена ошибка активации
 		
-		1.0.25.04 - Исправления
+1.0.25.04 - Исправления
 -изменено отображение кульков на 1045
 
 1.0.25.03 - Исправления
