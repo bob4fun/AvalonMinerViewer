@@ -4,7 +4,7 @@
         <version>1.0.25.08</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>E9C4B4975A4BB479C6225368814956A9</md5>
+        <md5>CFE797446F02A1532DA10D45EDB28E3A</md5>
         <description>1.0.25.08 - Исправления
 -корректное отображение сетки чипов на майнерах со 160 чипами
 		
