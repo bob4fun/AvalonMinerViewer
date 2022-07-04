@@ -1,11 +1,16 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.25.08</version> 
+        <version>1.0.25.09</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>CFE797446F02A1532DA10D45EDB28E3A</md5>
-        <description>1.0.25.08 - Исправления
+        <md5>745798E682F9B2A641B83992145F428F</md5>
+        <description>1.0.25.09 - Исправления/добавления
+-добавлено открытие майнера в браузере через контекстное меню в поиске
+-(расширенная) метки на графиках переехали вправо
+-(расширенная) убран отступ графиков по горизонтали
+
+1.0.25.08 - Исправления
 -корректное отображение сетки чипов на майнерах со 160 чипами
 		
 		1.0.25.07 - Исправления
