@@ -1,11 +1,14 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.25.09</version> 
+        <version>1.0.25.10</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>745798E682F9B2A641B83992145F428F</md5>
-        <description>1.0.25.09 - Исправления/добавления
+        <md5>12ECC91946578455B10F956C619D03E6</md5>
+        <description>1.0.25.10 - Исправления/добавления
+-исправлен баг: после опроса майнера слетала привязка элементов к краям экрана
+
+1.0.25.09 - Исправления/добавления
 -добавлено открытие майнера в браузере через контекстное меню в поиске
 -(расширенная) метки на графиках переехали вправо
 -(расширенная) убран отступ графиков по горизонтали
