@@ -1,11 +1,14 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.25.10</version> 
+        <version>1.0.25.11</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>12ECC91946578455B10F956C619D03E6</md5>
-        <description>1.0.25.10 - Исправления/добавления
+        <md5>A65F93B900430903D5DAF9328308A1F5</md5>
+        <description>1.0.25.11 - Исправления/добавления
+-(расширенная) добавлен график скорости вентиляторов
+		
+1.0.25.10 - Исправления/добавления
 -исправлен баг: после опроса майнера слетала привязка элементов к краям экрана
 
 1.0.25.09 - Исправления/добавления
