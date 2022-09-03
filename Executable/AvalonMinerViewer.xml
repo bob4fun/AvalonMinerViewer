@@ -1,11 +1,14 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.25.12</version> 
+        <version>1.0.25.13</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>370D118D5CBE4F972B6E57C4030FFB47</md5>
-        <description>1.0.25.12 - Исправления/добавления
+        <md5>C3F5B2881CE1C12A10F50DA27FB25A4D</md5>
+        <description>1.0.25.13 - Исправления/добавления
+-исправлен баг с задвоением соединений
+
+1.0.25.12 - Исправления/добавления
 -в окне поиска исправлено контекстное меню
 
 1.0.25.11 - Исправления/добавления
