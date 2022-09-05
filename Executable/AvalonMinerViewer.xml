@@ -1,11 +1,14 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.25.13</version> 
+        <version>1.0.25.14</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>C3F5B2881CE1C12A10F50DA27FB25A4D</md5>
-        <description>1.0.25.13 - Исправления/добавления
+        <md5>070807E40231D9C13D7DD30E76DF20EB</md5>
+        <description>1.0.25.14 - Исправления/добавления
+-(расширенная) доработаны графики (устойчивость к вылетам)
+
+1.0.25.13 - Исправления/добавления
 -исправлен баг с задвоением соединений
 
 1.0.25.12 - Исправления/добавления
