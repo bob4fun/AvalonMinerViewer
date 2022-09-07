@@ -1,11 +1,14 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.25.15</version> 
+        <version>1.0.25.156</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>C5066FAC738721445776B5663D38DABB</md5>
+        <md5>6EFBF38D2146FB10272108A9448A0D5A</md5>
         <description>1.0.25.15 - Исправления/добавления
+-исправлен краш на некоторых машинках из-за расчёта WTH
+
+1.0.25.15 - Исправления/добавления
 -добавлен WTH
 
 1.0.25.14 - Исправления/добавления
