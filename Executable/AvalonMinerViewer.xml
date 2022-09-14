@@ -1,11 +1,14 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.25.16</version> 
+        <version>1.0.25.17</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>6EFBF38D2146FB10272108A9448A0D5A</md5>
-        <description>1.0.25.16 - Исправления/добавления
+        <md5>70DE0B1D9EB95DAF58D9760C9F21A188</md5>
+        <description>1.0.25.17 - Исправления/добавления
+-на машинках 1066pro с отступами сделана правильная нумерация чипов
+
+1.0.25.16 - Исправления/добавления
 -исправлен краш на некоторых машинках из-за расчёта WTH
 
 1.0.25.15 - Исправления/добавления
