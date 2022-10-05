@@ -1,14 +1,17 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.25.18</version> 
+        <version>1.0.25.19</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>E20B85966E425DADB67C62B8EA7AA0E3</md5>
-        <description>1.0.25.18 - Исправления/добавления
+        <md5>011B9AF465DD4A3CDD62C2F4A48BD7BC</md5>
+        <description>1.0.25.19 - Исправления/добавления
+-в расширенной версии исправлена блокировка кнопок при автоматическом опросе
+		
+1.0.25.18 - Исправления/добавления
 -добавлена анимация загрузки программы
 		
-		1.0.25.17 - Исправления/добавления
+1.0.25.17 - Исправления/добавления
 -на машинках 1066pro с отступами сделана правильная нумерация чипов
 
 1.0.25.16 - Исправления/добавления
