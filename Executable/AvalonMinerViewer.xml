@@ -1,11 +1,14 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.25.20</version> 
+        <version>1.0.25.21</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>B76DDA2601CCCB14D4ED436E39464042</md5>
-        <description>1.0.25.20 - Исправления/добавления
+        <md5>872E02313E299A3649F6183E413EC224</md5>
+        <description>1.0.25.21 - Исправления/добавления
+-исправлен баг с вылетом при отключеннии одной из плат
+
+1.0.25.20 - Исправления/добавления
 -исправлено отображение частоты для HB2
 		
 1.0.25.19 - Исправления/добавления
