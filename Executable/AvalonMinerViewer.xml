@@ -1,11 +1,13 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.25.21</version> 
+        <version>2.0</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>872E02313E299A3649F6183E413EC224</md5>
-        <description>1.0.25.21 - Исправления/добавления
+        <md5>56C3F56910641106541D6E3920FF99E6</md5>
+        <description>2.0 - Полностью переработан интерфейс.
+		
+1.0.25.21 - Исправления/добавления
 -исправлен баг с вылетом при отключеннии одной из плат
 
 1.0.25.20 - Исправления/добавления
