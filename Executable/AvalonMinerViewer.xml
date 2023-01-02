@@ -4,7 +4,7 @@
         <version>2.1</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>0FE40E3FB24AFB17C55563FE1D87104E</md5>
+        <md5>B08283A0AB56190AAA348EE832C54016</md5>
         <description>2.1 - Оптимизация работы интерфейса для ускорения работы.
 -при выборе майнера в списке, опрос происходит автоматически
 		
