@@ -1,11 +1,14 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>2.2</version> 
+        <version>2.3</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>79DAB5D90C346F551B2BE5D8A34893C4</md5>
-        <description>2.2 - Исправления:
+        <md5>CB1838E87D81DB6E0C0A65243BD14A9B</md5>
+        <description>2.3 - Исправления:
+-Иногда при смене майнера в спике программа теперь не зависает.
+		
+2.2 - Исправления:
 -Пофиксили зависание при вводе IP на котором ничего нет.
 		
 2.1 - Оптимизация работы интерфейса для ускорения работы.
