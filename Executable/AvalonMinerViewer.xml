@@ -1,11 +1,14 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>2.4</version> 
+        <version>2.5</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>0E027B88FE9BED9E92319A752EFF7AB5</md5>
-        <description>2.4 - Исправления:
+        <md5>332E52EA713E62E5D970202B371FC720</md5>
+        <description>2.5 - Изменения:
+-В расширенной переделаны графики, теперь их 5 и люой из них можно отключить.
+
+2.4 - Исправления:
 -В расширенной немного подправлены графики.
 		
 2.3 - Исправления:
