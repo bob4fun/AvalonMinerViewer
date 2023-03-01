@@ -1,11 +1,15 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>2.6</version> 
+        <version>2.7</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>816A7B4B3DAEF028A68ED45F7129F57B</md5>
-        <description>2.6 - Изменения:
+        <md5>93DDD8D78F7C94E3835540D07158C409</md5>
+        <description>2.7 - Изменения:
+-В расширенной убран баг при выделении текста в консоли при автоматическом опросе.
+-Пофиксили кнопку РАСШИРЕННАЯ
+		
+2.6 - Изменения:
 -В расширенной, снова графики, убрано отображение маркеров.
 		
 2.5 - Изменения:
