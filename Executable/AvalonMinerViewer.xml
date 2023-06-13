@@ -4,7 +4,7 @@
         <version>2.7</version> 
         <url>https://github.com/bob4fun/AvalonMinerViewer/raw/main/Executable/AvalonMinerViewer.exe</url> 
         <filePath>./AvalonMinerViewer.exe</filePath>
-        <md5>93DDD8D78F7C94E3835540D07158C409</md5>
+        <md5>A217583351E074D2EF14F75F19F235CC</md5>
         <description>2.7 - Изменения:
 -В расширенной убран баг при выделении текста в консоли при автоматическом опросе.
 -Пофиксили кнопку РАСШИРЕННАЯ
